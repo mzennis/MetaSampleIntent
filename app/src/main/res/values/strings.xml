@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meta Sample Intent</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="intent_1">Submit Intent 1</string>
+    <string name="intent_2">Submit Intent 2</string>
+    <string name="intent_telp">Telepon!</string>
+    <string name="abc">Kirim String Berikut ke Halaman Selanjutnya :</string>
+</resources>
